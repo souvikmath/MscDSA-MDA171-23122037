@@ -1,100 +1,101 @@
-Reshmi kabab,4,50	 Total =200
-Chicken chap,4,40	 Total =160
-Dahi bora,3,15	 Total =45
-Dahi bora,4,15	 Total =60
-Biriyani,2,80	 Total =160
-Dahi bora,7,40	 Total =280
-Reshmi kabab,12,15	 Total =180
-coffee,1,160	 Total =160
-Chicken chap,7,40	 Total =280
-ice Cream,15,30	 Total =450
-Rosogolla,6,10	 Total =60
-Biriyani,12,100	 Total =1200
-Dahi bora,10,20	 Total =200
-Chicken chap,2,300	 Total =600
-coffee,6,300	 Total =1800
-Biriyani,2,30	 Total =60
-Dahi bora,4,15	 Total =60
-Dahi bora,5,20	 Total =100
-kheer,2,50	 Total =100
-Chicken chap,3,15	 Total =45
-Rosogolla,2,80	 Total =160
-Pulau,6,20	 Total =120
-Rosogolla,15,100	 Total =1500
-Chicken chap,12,300	 Total =3600
-Chicken chap,6,20	 Total =120
-coke,1,20	 Total =20
-Rosogolla,2,40	 Total =80
-Chicken chap,1,30	 Total =30
-Chicken chap,12,30	 Total =360
-coffee,4,160	 Total =640
-Reshmi kabab,5,300	 Total =1500
-coke,7,20	 Total =140
-Chicken chap,7,50	 Total =350
-Pulau,6,20	 Total =120
-Rosogolla,2,100	 Total =200
-coke,6,300	 Total =1800
-ice Cream,12,10	 Total =120
-Pulau,6,10	 Total =60
-coffee,7,50	 Total =350
-Pulau,7,15	 Total =105
-kheer,5,30	 Total =150
-Rosogolla,3,50	 Total =150
-Reshmi kabab,3,50	 Total =150
-Reshmi kabab,3,100	 Total =300
-Chicken chap,15,300	 Total =4500
-kheer,2,10	 Total =20
-ice Cream,2,50	 Total =100
-kheer,2,10	 Total =20
-Chicken chap,15,300	 Total =4500
-Rosogolla,5,20	 Total =100
-Rosogolla,10,80	 Total =800
-Chicken chap,15,50	 Total =750
-Reshmi kabab,3,10	 Total =30
-ice Cream,2,40	 Total =80
-Dahi bora,2,100	 Total =200
-kheer,15,160	 Total =2400
-coffee,6,20	 Total =120
-Chicken chap,10,15	 Total =150
-Rosogolla,5,10	 Total =50
-coke,7,15	 Total =105
-ice Cream,6,10	 Total =60
-Pulau,12,30	 Total =360
-kheer,7,50	 Total =350
-Chicken chap,15,30	 Total =450
-coke,7,20	 Total =140
-Dahi bora,3,160	 Total =480
-Chicken chap,7,160	 Total =1120
-Biriyani,5,160	 Total =800
-coke,4,10	 Total =40
-Chicken chap,2,80	 Total =160
-Pulau,1,160	 Total =160
-Dahi bora,1,50	 Total =50
-Reshmi kabab,10,50	 Total =500
-kheer,10,10	 Total =100
-Dahi bora,1,10	 Total =10
-Dahi bora,1,20	 Total =20
-ice Cream,7,300	 Total =2100
-Chicken chap,3,100	 Total =300
-Biriyani,6,10	 Total =60
-Rosogolla,3,10	 Total =30
-Biriyani,6,160	 Total =960
-Biriyani,12,50	 Total =600
-Pulau,7,20	 Total =140
-Chicken chap,12,160	 Total =1920
-Dahi bora,12,40	 Total =480
-kheer,6,100	 Total =600
-coffee,5,50	 Total =250
-Chicken chap,5,50	 Total =250
-Dahi bora,3,15	 Total =45
-Rosogolla,7,10	 Total =70
-Chicken chap,5,15	 Total =75
-Pulau,7,40	 Total =280
-coffee,10,80	 Total =800
-coke,6,80	 Total =480
-coke,6,15	 Total =90
-Rosogolla,4,100	 Total =400
-kheer,7,40	 Total =280
-Chicken chap,10,100	 Total =1000
-kheer,3,300	 Total =900
-Pulau,12,15	 Total =180
+Item,Quantity,UnitPrice,TotalCost
+Dahi_Bora,10,15,150
+coffee,10,300,3000
+Kheer,7,20,140
+Reshmi_Kabab,2,50,100
+Reshmi_Kabab,2,300,600
+Pulau,3,10,30
+Rosogolla,15,10,150
+Coke,15,160,2400
+Rosogolla,2,160,320
+Chicken_Chap,2,160,320
+coffee,7,30,210
+Rosogolla,1,40,40
+Ice_Cream,3,10,30
+Pulau,2,80,160
+Dahi_Bora,5,20,100
+Chicken_Chap,15,10,150
+Ice_Cream,1,30,30
+Coke,5,40,200
+Reshmi_Kabab,10,20,200
+Rosogolla,15,20,300
+Ice_Cream,10,10,100
+Reshmi_Kabab,15,100,1500
+coffee,1,30,30
+coffee,1,80,80
+Dahi_Bora,6,20,120
+Ice_Cream,6,300,1800
+Ice_Cream,12,10,120
+Ice_Cream,5,100,500
+Reshmi_Kabab,2,20,40
+Chicken_Chap,1,10,10
+Rosogolla,3,15,45
+coffee,7,15,105
+Ice_Cream,10,40,400
+Rosogolla,1,10,10
+Biriyani,4,160,640
+Ice_Cream,3,15,45
+coffee,6,100,600
+Coke,6,100,600
+Coke,1,20,20
+Ice_Cream,7,15,105
+Chicken_Chap,5,30,150
+Dahi_Bora,6,20,120
+coffee,3,160,480
+Reshmi_Kabab,4,100,400
+Coke,1,10,10
+Rosogolla,4,50,200
+Biriyani,7,50,350
+Dahi_Bora,5,100,500
+Kheer,6,10,60
+Chicken_Chap,5,20,100
+Pulau,3,20,60
+Ice_Cream,5,160,800
+Rosogolla,7,10,70
+Coke,12,300,3600
+Kheer,3,30,90
+Ice_Cream,6,40,240
+Rosogolla,2,50,100
+Pulau,4,160,640
+Kheer,3,300,900
+Dahi_Bora,12,100,1200
+Reshmi_Kabab,10,160,1600
+Biriyani,3,30,90
+Biriyani,10,30,300
+Chicken_Chap,3,20,60
+Ice_Cream,1,15,15
+Biriyani,12,30,360
+coffee,12,100,1200
+Kheer,5,10,50
+Coke,12,10,120
+Ice_Cream,5,160,800
+Kheer,1,100,100
+Pulau,15,50,750
+Kheer,6,20,120
+Coke,6,30,180
+Pulau,1,50,50
+Rosogolla,3,300,900
+Dahi_Bora,7,50,350
+Kheer,12,30,360
+Reshmi_Kabab,3,160,480
+Chicken_Chap,12,15,180
+Dahi_Bora,4,160,640
+Biriyani,1,15,15
+Pulau,5,160,800
+Ice_Cream,6,50,300
+Coke,15,20,300
+Chicken_Chap,15,50,750
+Coke,1,160,160
+Biriyani,3,50,150
+Coke,4,15,60
+Coke,15,100,1500
+coffee,4,50,200
+Dahi_Bora,4,30,120
+Coke,12,30,360
+Dahi_Bora,2,80,160
+Coke,4,160,640
+Rosogolla,15,100,1500
+Dahi_Bora,1,80,80
+Biriyani,6,80,480
+coffee,15,20,300
+Pulau,1,300,300
