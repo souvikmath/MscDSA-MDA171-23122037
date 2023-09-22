@@ -1,7 +1,7 @@
 import csv  # Import the CSV module
 
 class ExpenseTracker:
-    def _init_(self):
+    def __init__(self):
         self.transactions = []  # Initialize an empty list to store transactions
 
     def storeTransaction(self, transaction_type, category, cost, desc, date):
@@ -94,8 +94,8 @@ def read_csv(filename):
 my_transaction = ExpenseTracker()  # Create an instance of ExpenseTracker
 
 # Read transactions from the CSV file
-read_csv("D:\Python\git\MscDSA-MDA171-23122037\lab09\lab09.py")
+read_csv("D:\Python\git\MscDSA-MDA171-23122037\lab09\python lab09.csv")
 
 # Display the menu to the user
 my_transaction.show_menu()  # Display the menu and handle user interactions
-my_transaction.export_to_file("D:\Python\git\MscDSA-MDA171-23122037\lab09\lab09.py")  # Export transactions to the CSV file
+my_transaction.export_to_file("D:\Python\git\MscDSA-MDA171-23122037\lab09\python lab09.csv")  # Export transactions to the CSV file
