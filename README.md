@@ -19,5 +19,4 @@ Email:souvik.chowdhurymsds@christuniversity.in
 |  10.   | 29-09-23 |   lab09   |                                            Expense tracker class.                                           | https://github.com/souvik141998/MscDSA-MDA171-23122037/tree/main/Labs/lab09 |
 |  11.   |25-09-23  |   CAC02   |                |https://github.com/souvik141998/MscDSA-MDA171-23122037/tree/main |
 
-|  12.  | 25-10-23 |   lab10   |                                            Create a Python Class for managing student details and marks.                                          | https://github.com/souvik141998/MscDSA-MDA171-23122037/blob/main/Labs/lab10.py |
-                                        | https://github.com/souvik141998/MscDSA-MDA171-23122037.git |
+|  12.   | 25-09-23 |   lab10   |                                         |Create a Python Class for managing student details and marks.                                          |     .                                           |https://github.com/souvik141998/MscDSA-MDA171-23122037/blob/main/Labs/lab10.py|
