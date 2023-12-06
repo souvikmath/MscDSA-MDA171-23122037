@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/8c7d915d80.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="header">
+        <div class="container">
+            <nav>
+
+                <ul id="sidemenu">
+                    <li><a href="#header">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#services">Services</a></li>
+                    <li><a href="#portfolio">Portfolio</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <i class="fas fa-times" onclick="closemenu()"></i>
+
+
+
+                </ul>
+                <i class="fas fa-bars" onclick="openmenu()"></i>
+
+            </nav>
+            <div class="header-text">
+                <p style="color:black;">Data Scientist Aspirant</p>
+                <h1 style="color:black;">Hi,I'm<span>Souvik Chowdhury</span><br></h1>
+            </div>
+        </div>
+    </div>
+    <!--------------- About--------------- -->
+    <div id="about">
+        <div class="container">
+            <div class="row">
+                <div class="about-col-1">
+                    <img src="images/236220092.jpg">
+                </div>
+                <div class="about-col-2">
+                    <h1 class="Sub-title" ->About Me</h1>
+                    <p>Greetings! My name is Souvik Chowdhury, and I am a passionate mathematician and data scientist. I
+                        am currently pursuing my MSc in Data Science, where I have honed my skills in various aspects of
+                        the field. As I near the completion of my studies, I am actively seeking employment
+                        opportunities that will allow me to apply my knowledge and skills, and align with my career
+                        aspirations.As a mathematician and data scientist, I have honed my skills in Excel, Python, and
+                        Web Development. I am eager to explore new challenges and contribute to the success of a dynamic
+                        organization.</p>
+                    <div class="tab-titles">
+                        <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                        <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                        <p class="tab-links" onclick="opentab('education')">Education</p>
+
+                    </div>
+                    <div class="tab-contents active-tab" id="skills">
+                        <ul>
+                            <li><span>Data Analyst</span><br>Exploratory Data Analysis</li>
+                            <li><span>Excel Expert</span><br>Pivot Table analysis, Data validation</li>
+                            <li><span>R-Language</span><br>Rigorious Statistical Analysis</li>
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="experience">
+                        <ul>
+                            <li><span>Mathematics Expert</span><br>Chegg India Website</li>
+                            
+                        </ul>
+                    </div>
+
+                    <div class="tab-contents" id="education">
+                        <ul>
+                            <li><span>Monglapota High School(secondary school)</span><br>Marks-85%</li>
+                            <li><span>Garhbeta High School(Higher secondary school)</span><br>Marks-88%</li>
+                            <li><span>Calcutta University[Asutosh College]</span><br>B.Sc Math(Hons) with-66%</li>
+                            <li><span>Burdwan University</span><br>B.ed with-9.1 SGPA</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!------------------ services------------------ -->
+    <div id="services">
+        <div class="container">
+            <h1 class="Sub-title" ->My Services</h1>
+            <div class="services-list">
+                <div>
+                    <i class="fas fa-code"></i>
+                    <h2>Web Design</h2>
+                    <p>Web Development: I have a solid understanding of both front-end and back-end web development,
+                        with experience in HTML, CSS, JavaScript, and frameworks like Django and Flask.I am eager to
+                        apply these skills in a dynamic organization
+                    </p>
+                    <a href="#">Learn more</a>
+                </div>
+                <div>
+                    <i class="fa-solid fa-file-excel"></i>
+                    <h2>Excel</h2>
+                    <p> I am proficient in advanced features, enabling me to perform sophisticated data analysis
+                        and create informative visualizations.</p>
+                    <a href="#">Learn more</a>
+                </div>
+                <div>
+                    <i class="fa-brands fa-python"></i>
+                    <h2>Python</h2>
+                    <p> I use Python for data analysis and machine learning, with proficiency in libraries like
+                        pandas, numpy, and scikit-learn.i have solid knowledge in class and File handling</p>
+                    <a href="#">Learn more</a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- ----------------portfolio------------- -->
+    <div id="portfolio">
+        <div class="container">
+            <h1 class="Sub-title" ->My Work</h1>
+            <div class="work-list">
+                <div class="work">
+                    <img src="images/onlineshopping.jpg">
+                    <div class="layer">
+                        <h3>E-Commerce Management System</h3>
+                        <p>The link connects you to give you a best knowledge how the e-commerce system works in shopping</p>
+                        <a href="https://github.com/souvik141998/MscDSA-MDA171-23122037/tree/main/CAC%201"><i
+                                class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/EDA.jpg">
+                    <div class="layer">
+                        <h3>Exploratory data Analysis</h3>
+                        <p>The link gives a brief description of the condition of hostel students in Lavasa</p>
+                        <a href="https://github.com/souvik141998/MscDSA-MDA171-23122037/tree/main/CAC2"><i
+                                class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                </div>
+                <div class="work">
+                    <img src="images/work.webp">
+                    <div class="layer">
+                        <h3>Various Practical Project</h3>
+                        <p>This link gives you a real life experience projects on Python </p>
+                        <a href="https://github.com/souvik141998/MscDSA-MDA171-23122037/tree/main/Labs"><i
+                                class="fa-solid fa-up-right-from-square"></i></a>
+                    </div>
+                </div>
+            </div>
+            <a href="#" class="btn
+            ">See more</a>
+        </div>
+    </div>
+    <!-- ----------contact----------- -->
+    <div id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="contact-left">
+                    <h1 class="sub-title">Contact Me</h1>
+                    <p><i class="fa-solid fa-paper-plane"></i>Chowdhurysouvik15@gmail.com</p>
+                    <p><i class="fa-solid fa-phone-square-alt"></i>8250502870</p>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/souvik.chowdhury.10048/"><i class="fab fa-facebook "></i></a>
+                        <a href=""><i class="fab fa-twitter-square"></i></a>
+                        <a href=""><i class="fa-brands fa-instagram"></i></a>
+                        <a href="https://www.linkedin.com/in/souvik-c-884098258/"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="https://github.com/souvik141998"><i class="fa-brands fa-github"></i></a>
+                    </div>
+                    <a href="" class="btn btn2">Download Cv</a>
+                </div>
+                <div class="contact-right">
+                    <form>
+                        <input type="text" name="Name" placeholder="Your Name" required>
+                        <input type="email" name="email" placeholder="Your email" required>
+                        <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                        <button type="submit" class="btn btn2">Submit</button>
+                    </form>
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+    <script>
+
+        var tablinks = document.getElementsByClassName("tab-links");
+        var tabcontents = document.getElementsByClassName("tab-contents");
+
+        function opentab(tabname) {
+            for (tablink of tablinks) {
+                tablink.classList.remove("active-link");
+            }
+            for (tabcontent of tabcontents) {
+                tabcontent.classList.remove("active-tab");
+            }
+            event.currentTarget.classList.add("active-link");
+            document.getElementById(tabname).classList.add("active-tab");
+        }
+
+    </script>
+
+
+
+
+
+
+
+
+
+    <script>
+        var sidemenu = document.getElementById("sidemenu");
+
+        function openmenu() {
+            sidemenu.style.right = "0";
+        }
+        function closemenu() {
+            sidemenu.style.right = "-200px";
+        }
+
+
+    </script>
+
+</body>
+
+</html>
